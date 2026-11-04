@@ -3,5 +3,8 @@
   "version": "",
   "url": "",
   "notes": "",
-  "blocked": []
+  "date": null,
+  "blocked": [
+    "test-0000"
+  ]
 }
